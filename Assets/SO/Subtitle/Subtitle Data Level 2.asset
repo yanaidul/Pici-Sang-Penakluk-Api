@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c34fef0f3d60504bb1afb97562a9e67, type: 3}
+  m_Name: Subtitle Data Level 2
+  m_EditorClassIdentifier: 
+  lines:
+  - text: Selamat ya, kamu hebat berhasil menyelesaikan tantangan pada level 1.
+    startTime: 0
+    duration: 5.5
+  - text: Pada level 2 akan terjadi kebakaran di rumah.
+    startTime: 0
+    duration: 4
+  - text: Kamu bantu pici ya madamin semua apinya.
+    startTime: 0
+    duration: 4
+  - text: Tapi kamu harus punya apar dulu untuk bantu pici menyelesaikan tantangan
+      ini.
+    startTime: 0
+    duration: 5
