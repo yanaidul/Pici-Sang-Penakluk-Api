@@ -39,7 +39,7 @@ public class GridPathManager : MonoBehaviour
 
         foreach (Node node in grid)
         {
-            grisPos.Add(node.worldPosition);
+            if(grisPos != null) grisPos.Add(node.worldPosition);
         }
     }
 
